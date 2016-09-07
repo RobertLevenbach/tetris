@@ -1,0 +1,27 @@
+
+public class iShape {
+	
+public static int[][] I_shape={
+{1, 1, 1, 1},
+{0, 0, 0, 0},
+{0, 0, 0, 0},	
+{0, 0, 0, 0}
+};
+
+public int[][] getI_shape() {
+	return I_shape;
+}
+
+
+public static int[][] L_shape={
+{1, 0, 0},
+{1, 0, 0},
+{1, 1, 0},	
+
+};
+
+
+
+
+	
+}
